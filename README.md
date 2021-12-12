@@ -1,1 +1,1 @@
-# odin-recipes
+This is the initial assignment in The Odin Project which is a list of recipes 
