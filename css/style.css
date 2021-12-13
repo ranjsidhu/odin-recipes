@@ -3,6 +3,16 @@
     width: auto;
 }
 
+.wrap-img {
+    height: 300px;
+    width: auto;
+}
+
+.cookie-img {
+    height: 300px;
+    width: 300px;
+}
+
 .descriptiontitle, .ingredientstitle, .stepstitle{
     text-align: center;
     font-weight: bold;
@@ -20,8 +30,4 @@
 
 #steps {
     font-size: 20px;
-}
-
-#home-link {
-    font-size: 18px;
 }
