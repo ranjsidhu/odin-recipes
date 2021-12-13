@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+.lasagna-img {
+    height: 400px;
+    width: auto;
+}
+
+.descriptiontitle, .ingredientstitle, .stepstitle{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.description {
+    font-size: 20px;
+}
+
+#ingredients {
+    text-align: left;
+    font-size: 20px;
+}
