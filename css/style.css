@@ -20,14 +20,12 @@
 #cookiehomepage {
     height: 200px;
     width: auto;
-    margin-left: auto;
-    margin-right: auto;
+    padding-right: 30px;
 }
 
 #wraphomepage {
     height: 200px;
     width: auto;
-    padding-left: 30px;;
 }
 
 .lasagna-img {
