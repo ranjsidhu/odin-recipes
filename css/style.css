@@ -1,13 +1,14 @@
 *{
-    background-color: #eee4aa;
+    background-color: white;
 }
 
 .homepagetitle {
     text-align: center;
     font-weight: bold;
-    background-color: lightgoldenrodyellow;
+    color: red;
     padding: 0px 10px;
-    /* border: 3px solid rgb(185, 163, 37); */
+    border: 3px outset red;
+    border-radius: 16px;
 }
 
 #lasagnahomepage {
